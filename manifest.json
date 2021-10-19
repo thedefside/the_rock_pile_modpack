@@ -1,0 +1,29 @@
+{
+    "name": "TheRockPileModpack",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/thedefside/the_rock_pile_modpack",
+    "description": "Mods and configuration used on The Rock Pile server.",
+    "dependencies": [
+        "thedefside-JourneyToValhalla-0.0.1",
+        "OdinPlus-Clutter-0.1.0",
+        "OdinPlus-OdinArchitect-0.1.2",
+        "OdinPlus-PlantIt-0.1.3",
+        "Advize-PlantEverything-1.8.4",
+        "UraNu5-BifrostPortal-1.0.2",
+        "OdinPlus-BuildIt-1.3.1",
+        "RagnarokHCRP-MoreGates-1.0.10",
+        "MSchmoecker-PressurePlate-0.5.0",
+        "Mydayyy-ServerSideMap-1.3.5",
+        "ValheimPlus-ValheimPlus-9.9.1",
+        "abearcodes-SimpleRecycling-0.0.13",
+        "Smoothbrain-SteadyRegeneration-1.0.0",
+        "Tekla-ColorfulSigns-5.4.1600",
+        "Tekla-JsonDotNet-13.0.1",
+        "holgeroWolfHowl-ReduceWolfHowl-0.1.0",
+        "Nexus-ShowContainerContents-0.2.0",
+        "Nexus-TerrainReset-0.5.1",
+        "k942-MassFarming-1.3.0",
+        "virtuaCode-EquipWheel-1.3.6",
+        "ToastyWzrd-TeleportWolves-0.2.1"
+    ]
+}
