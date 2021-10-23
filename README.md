@@ -11,3 +11,22 @@ We also use these mods that are only available on Nexus Mods:
 - [Custom Textures](https://www.nexusmods.com/valheim/mods/48)
 - [Build Piece Tweaks](https://www.nexusmods.com/valheim/mods/1201)
 - [Character Edit Button](https://www.nexusmods.com/valheim/mods/650)
+
+# ValheimPlus Changes
+ - Increase capacity on Kiln/Furnace/Windmill/Spinning Wheel
+ - Increase stamina regen 10%
+ - Decrease stamina regen delay 50%
+ - Increase Blocking and Swimming XP gained
+ - Craft from Containers
+ - Area Repair
+ - Sleep in any bed
+ - Double sized stacks
+ - Auto repair, auto-equip shield, re-equip weapon after swimming
+ - Increase comfort range
+ - **Disable Server password**
+ - Increase inventory space for containers
+
+# Changelog
+v0.0.1
+ - Initial Version
+
