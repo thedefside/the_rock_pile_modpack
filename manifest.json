@@ -4,7 +4,7 @@
     "website_url": "https://github.com/thedefside/the_rock_pile_modpack",
     "description": "Mods and configuration used on The Rock Pile server.",
     "dependencies": [
-        "thedefside-Journey_To_Valhalla-0.0.3",
+        "thedefside-Journey_To_Valhalla-0.0.4",
         "thedefside-BlackMetalBuildPieces-0.0.1",
         "OdinPlus-Clutter-0.1.0",
         "OdinPlus-OdinArchitect-0.1.2",
