@@ -27,6 +27,15 @@ We also use these mods that are only available on Nexus Mods:
  - Increase inventory space for containers
 
 # Changelog
+v0.0.3
+- Add Black Metal Build Pieces
+- Set V+ multiplayer game difficulty to 0
+
+v0.0.2
+- Add DigitalRoots Gold Bars
+- Add Better Networking
+- Add Discord Connector
+
 v0.0.1
  - Initial Version
 
