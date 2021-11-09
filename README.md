@@ -27,6 +27,12 @@ We also use these mods that are only available on Nexus Mods:
  - Increase inventory space for containers
 
 # Changelog
+v0.0.4
+ - Add Dual Wield
+ - Add JotunnBackpacks/Extended Item Data Framework
+ - Add Hallowheim
+ - Add BetterUI
+ - 
 v0.0.3
 - Add Black Metal Build Pieces
 - Set V+ multiplayer game difficulty to 0
