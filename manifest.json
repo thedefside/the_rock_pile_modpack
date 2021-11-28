@@ -1,6 +1,6 @@
 {
     "name": "TheRockPileModpack",
-    "version_number": "0.0.4",
+    "version_number": "0.0.5",
     "website_url": "https://github.com/thedefside/the_rock_pile_modpack",
     "description": "Mods and configuration used on The Rock Pile server.",
     "dependencies": [
@@ -28,8 +28,10 @@
         "CW_Jesse-BetterNetworking_Valheim-1.2.2",
         "nwesterhausen-DiscordConnector-1.5.2",
         "EmrikNorth_and_Aedenthorn-JotunnBackpacks-2.0.0",
-        "thedefside-Journey_To_Valhalla-0.0.6",
+        "thedefside-Journey_To_Valhalla-0.1.0",
         "thedefside-BlackMetalBuildPieces-0.0.4",
+        "thedefside-BuildPieceCustomizer-0.0.1",
+        "thedefside-TextureCustomizer-0.0.1",
         "RandyKnapp-ExtendedItemDataFramework-1.0.6",
         "Smoothbrain-DualWield-1.0.0",
         "nikolespice-Hallowheim-1.0.1"
